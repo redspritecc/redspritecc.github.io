@@ -1,1 +1,0 @@
-window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/scenes/home.fire",orientation:"",jsList:["assets/component/xlsx.full.min.6ba07.js"],bundleVers:{internal:"d17e2",main:"e07df"}};
